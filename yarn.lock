@@ -3830,6 +3830,11 @@
   "resolved" "https://registry.npmjs.org/chownr/-/chownr-2.0.0.tgz"
   "version" "2.0.0"
 
+"chromatic@^7.1.0":
+  "integrity" "sha512-4hvWVxj2TxsgmzQK7zsAIVapxF+mzAXFuYIoAKKACdKtI+kjz0GfKJYpnzD4xciY3SGaySsis6gWxJ9q8GIxiQ=="
+  "resolved" "https://registry.npmjs.org/chromatic/-/chromatic-7.1.0.tgz"
+  "version" "7.1.0"
+
 "ci-info@^3.2.0":
   "integrity" "sha512-eXTggHWSooYhq49F2opQhuHWgzucfF2YgODK4e1566GQs5BIfP30B0oenwBJHfWxAs2fyPB1s7Mg949zLf61Yw=="
   "resolved" "https://registry.npmjs.org/ci-info/-/ci-info-3.8.0.tgz"
